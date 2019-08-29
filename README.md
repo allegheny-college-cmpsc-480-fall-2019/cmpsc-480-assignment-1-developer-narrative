@@ -1,6 +1,6 @@
 # Assignment #1: Software Innovation 1, Allegheny College, Fall 2019
 
-* [Assignment sheet](CMPSC%20480%20-@%20Assignment%201.pdf)
+* [Assignment sheet](CMPSC%20480%20-%20Assignment%201.pdf)
 
 ##Objective
 
@@ -18,7 +18,7 @@ change
 ##What's a "Developer Narrative"?
 
 ###Helpful Reading
-* [Austin Kleon, Telling Good Stories](../course-materials/blob/masterReadings/Austin%20Kleon%20-%20Show%20Your%20Work%20-%20Chapter%205%20-%20Telling%20Good%20Stories.pdf)
+* [Austin Kleon, "Telling Good Stories"](../../course-materials/blob/masterReadings/Austin%20Kleon%20-%20Show%20Your%20Work%20-%20Chapter%205%20-%20Telling%20Good%20Stories.pdf)
 
 ##General Idea
 
